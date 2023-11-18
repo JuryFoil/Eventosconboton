@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+.botonClick{
+    width: 15%;
+    height: 50px;
+    background-color: red;
+    box-shadow: 10px 5px blue;
+    color: aliceblue;
+    
+}
+
+.Click2{
+    width: 15%;
+    height: 50px;
+    background-color: red;
+    box-shadow: 10px 5px blue;
+    color: aliceblue;
+    background: red;
+    
+}
